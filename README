@@ -1,0 +1,7 @@
+#####     README     #####
+
+Composite SEDs from Forrest+2018 (see paper for SED and filter construction details).
+
+*_cf.dat files provide the median wavelength, flux, and errors for each point in a given composite SED.
+
+*FILTERS.res provide the composite SED filter curves for each point normalized to 1.
